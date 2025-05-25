@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916580838364",
+    "project_id": "todolistapp-2bc7f",
+    "storage_bucket": "todolistapp-2bc7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916580838364:android:eba4b2e10cc2a670a4fd19",
+        "android_client_info": {
+          "package_name": "til.edu.todolistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGEkbDjUF6KxqrmGyaNzqIc8WFaR7gQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
